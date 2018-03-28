@@ -5,10 +5,10 @@
   <p>
     Data comes from the incredible track history site <a href="http://www.alltime-athletics.com/index.html">all-time athletics</a> maintained by Peter Larsson.
 
-    The dataset was constructed by first taking the top men's outdoor legal (which excludes wind-aided, drugged, and hand-timed marks) marks in history - all times under 20.4 ever run. This list was further narrowed down to include athletes who appeared on the list before their 21st birthday. If an athlete had multiple performances before or after their 21st birthday, I take the best mark for the graph.
+   The dataset was constructed by first taking the top men's outdoor legal (which excludes wind-aided, drugged, and hand-timed marks) marks in history - all times under 20.4 ever run. This list was further narrowed down to include athletes who appeared on the list before their 21st birthday. If an athlete had multiple performances before or after their 21st birthday, I take the best mark for the graph.
   </p>
   <p>
     Of the 3,288 all-time best 200 meter runs, 1,431 marks (43.52%) include athletes who made the list before the 21st birthday. Then, a small majority of the top all-time marks are run by athletes who never made the list until after they turned 21 (note that this is not equivalent to the number of athletes, since athletes can leave multiple marks on the all-time list). Still, a significant portion of the world's greatest sprinters are not preciously early bloomers.
 
-    After removing duplicates, we are left with 78 athletes who made the top lists both before and after age 21. 63 athletes made the list before 21 and did not make it after (a number of these athletes are contemporary still competing).
+   After removing duplicates, we are left with 78 athletes who made the top lists both before and after age 21. 63 athletes made the list before 21 and did not make it after (a number of these athletes are contemporary still competing).
   </p>
