@@ -57,7 +57,7 @@
 <body>
   <label><input type="checkbox">Flip Axes</label>
   <script type="text/javascript">
-    let path = "/clean200meterdata.csv";
+    let path = "./clean200meterdata.csv";
     var margin = {top: 60, right: 130, bottom: 100, left: 90},
     width = 1000,
     height = 950;
